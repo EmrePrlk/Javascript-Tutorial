@@ -9,3 +9,10 @@ console.log('jonas');
 
 let firstName = 'Jonas'
 console.log(firstName);
+
+
+let lastName = "bosh"
+
+console.log(firstName + lastName);
+
+
